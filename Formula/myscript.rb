@@ -6,8 +6,8 @@ class M4bwizard < Formula
   version "1.0.0"
 
   def install
-    # This copies 'myscript.sh' from the archive and saves it into Homebrew's bin folder.
-    # It also renames it to 'myscript' (removing the extension) and makes it executable.
+    # This copies 'm4bwizard.sh' from the archive and saves it into Homebrew's bin folder.
+    # It also renames it to 'm4bwizard' (removing the extension) and makes it executable.
     bin.install "m4bWizard.sh" => "m4bWizard" 
   end
 
