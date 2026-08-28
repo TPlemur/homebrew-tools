@@ -2,7 +2,7 @@ class M4bwizard < Formula
   desc "A Wizard for making m4b Audiobooks"
   homepage "https://github.com/TPlemur/m4bWizard"
   url "https://github.com/TPlemur/m4bWizard/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "a5d1df97114e79b2ff5188763f85a60262c861ba98a4914589728ea592b9f15d"
+  sha256 "386f271b740f272c61bc1b569b4a1e8fa7a10f534b78c64dc04a4e9524e4b386"
   version "1.0.0"
 
   def install
