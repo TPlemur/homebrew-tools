@@ -1,4 +1,4 @@
-class M4bWizard < Formula
+class M4bwizard < Formula
   desc "A Wizard for making m4b Audiobooks"
   homepage "https://github.com/TPlemur/m4bWizard"
   url "https://github.com/TPlemur/m4bWizard/archive/refs/tags/v1.0.0.tar.gz"
