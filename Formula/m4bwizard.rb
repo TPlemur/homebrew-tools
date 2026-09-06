@@ -1,9 +1,9 @@
 class M4bwizard < Formula
   desc "A Wizard for making m4b Audiobooks"
   homepage "https://github.com/TPlemur/m4bWizard"
-  url "https://github.com/TPlemur/m4bWizard/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "386f271b740f272c61bc1b569b4a1e8fa7a10f534b78c64dc04a4e9524e4b386"
-  version "1.0.0"
+  url "https://github.com/TPlemur/m4bWizard/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "2c391fb1ba9350bcb7920051369a0c3e21b763ba"
+  version "1.0.2"
 
   def install
     # This copies 'm4bwizard.sh' from the archive and saves it into Homebrew's bin folder.
